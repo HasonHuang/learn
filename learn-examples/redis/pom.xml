@@ -17,7 +17,7 @@
     </parent>
 
     <properties>
-        <postgresql.version>42.1.1</postgresql.version>
+        <postgresql.version>42.2.25</postgresql.version>
         <druid.version>1.1.0</druid.version>
         <jedis.version>2.9.0</jedis.version>
         <beetl.version>2.7.12</beetl.version>
